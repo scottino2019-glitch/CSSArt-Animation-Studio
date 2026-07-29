@@ -1,0 +1,6 @@
+{
+  "name": "CSS Art & Animation Studio",
+  "description": "An interactive pure code CSS art and animation studio with instant live preview, code editor, templates, and export tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
